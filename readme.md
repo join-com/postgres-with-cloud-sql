@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-you need [Maven](https://maven.apache.org/ index.html) to build an uber jar.
+you need [Maven](https://maven.apache.org/index.html) to build an uber jar.
 
 It can be set with `brew` up:
 
