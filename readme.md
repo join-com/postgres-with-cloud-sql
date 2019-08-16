@@ -18,4 +18,4 @@ mvn package
 
 ## Releases
 
-Go to [Releases](/releases) tab to get last release
+Go to [Releases](https://github.com/join-com/postgres-with-cloud-sql/releases) tab to get last release
